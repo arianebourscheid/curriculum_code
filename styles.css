@@ -23,13 +23,13 @@
 body {
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--cor-preto);
+    background-color: var(--cor-back);
     color: var(--cor-escrita);
 }
 
 .rodape {
-    background-color: var(--cor-cinza);
-    border: 3px solid var(--cor-azul-escuro);
+    background-color: var(--cor-back-hover);
+    border: 3px solid var(--cor2);
     color: var(--cor-escrita);
     text-align: center;
     font-family: var(--fonte-montserrat);
