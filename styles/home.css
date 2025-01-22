@@ -11,6 +11,7 @@ body{
 
 .cabecalho__menu {
     background-color: var(--cor-back-hover);
+    border: 2px solid var(--cor2);
     color: var(--cor3);
     margin: 0 0.1%;
     padding: 0.8% 9.4%;
@@ -71,8 +72,6 @@ body{
     text-align: center;
     color: var(--cor1);
 }
-
-
 
 #hello_word {
     color: var(--cor2);
@@ -184,6 +183,7 @@ body{
 
     .apresentacao__conteudo__texto_in {
         text-align: left;
+        margin-left: 6%;
     }
 
     .conteudo-texto {
