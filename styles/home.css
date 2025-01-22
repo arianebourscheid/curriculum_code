@@ -165,7 +165,6 @@ body{
     }
 
     .imagem {
-        border: 3px double var(--cor-verde);
         padding: 0.3rem;
         width: 60%;
     }
@@ -179,7 +178,8 @@ body{
 
     .apresentacao__conteudo__texto {
         font-size: 20px;
-        text-align: center;
+        text-align: left;
+        justify-content: left;
     }
 
     .links-redes {
@@ -199,8 +199,8 @@ body{
     .rodape {
         font-size: 16px;
         color: var(--cor-escrita);
-        background-color: var(--cor-preto);
-        border: 1px solid var(--cor-verde);
+        background-color: var(--cor-back-hover);
+        border: 1px solid var(--cor2);
     }
 }
 
