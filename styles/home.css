@@ -182,6 +182,14 @@ body{
         justify-content: left;
     }
 
+    .apresentacao__conteudo__texto_in {
+        text-align: left;
+    }
+
+    .conteudo-texto {
+        margin-left: 4%;
+    }
+
     .links-redes {
         display: flex;
         flex-direction: column;
