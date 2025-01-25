@@ -28,9 +28,12 @@
     width: 80%;
 }
 
+
+
 .curriculo__conteudo-lista {
     text-decoration: none;
     list-style-type: none;
+    margin-left: 4%;
 }
 
 .curriculo__conteudo-titulo-area {
