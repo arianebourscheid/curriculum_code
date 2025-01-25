@@ -7,13 +7,11 @@
     color: var(--cor2);
     font-weight: 550;
     font-size: 2.1rem;
-    margin: 0 0.5%;
     padding: 0 9%;
 }
 
 
 .curriculo__conteudo-texto {
-    margin: 0 0.5% 0.8% 4%;
     padding: 0.6% 9%;
     font-weight: 500;
     font-size: 1.5rem;
@@ -21,19 +19,21 @@
     font-family: var(--fonte-montserrat);
 }
 
-.curriculo__conteudo-areas {
-    margin: 0.5% 9.5% 2% 12%;
-    padding: 0.5% 0.7%;
-    display: block;
-    width: 80%;
+.conteudo-texto {
+    margin-left: 2%;
 }
 
-
+.curriculo__conteudo-areas {
+    margin: 0.5% 9.5% 2% 8.5%;
+    padding: 0.5% 0.7%;
+    display: block;
+    width: 90%;
+}
 
 .curriculo__conteudo-lista {
     text-decoration: none;
     list-style-type: none;
-    margin-left: 4%;
+    margin-left: 2%;
 }
 
 .curriculo__conteudo-titulo-area {
@@ -41,6 +41,7 @@
     font-size: 1.6rem; 
     font-weight: 520;
     font-family: var(--fonte-montserrat);
+    margin-left: 2%;
 }
 
 .lista-item {
@@ -53,6 +54,7 @@
 .lista-link {
     text-decoration: none;
     color: var(--cor1);
+    margin-left: 2%;
 }
 
 .lista-link:hover {
@@ -93,7 +95,6 @@
         width: 80%;
         margin: 0.5% 9.5% 4% 9.5%;
         padding: 2% 2%;
-      
     }
 
     .curriculo__conteudo-titulo-area {
@@ -103,4 +104,3 @@
     }
 
 }    
-
