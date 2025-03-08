@@ -50,6 +50,9 @@
     font-family: var(--fonte-montserrat);
 }
 
+.item-exp{
+    color: var(--cor1);
+}
 
 .lista-link {
     text-decoration: none;
